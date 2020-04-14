@@ -1,0 +1,6 @@
+framework module CheckinServer {
+  umbrella header "CheckinServer-umbrella.h"
+
+  export *
+  module * { export * }
+}

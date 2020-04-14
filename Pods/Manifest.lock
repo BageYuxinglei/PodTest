@@ -1,0 +1,16 @@
+PODS:
+  - CheckinServer (0.1.0)
+
+DEPENDENCIES:
+  - CheckinServer (from `Lib/CheckinServer`)
+
+EXTERNAL SOURCES:
+  CheckinServer:
+    :path: Lib/CheckinServer
+
+SPEC CHECKSUMS:
+  CheckinServer: a4ca938f7a19c4890cb8beb392081b405c9fdb8e
+
+PODFILE CHECKSUM: eeaf4c55b3b7e3007de76624cb3e6f87b57f33d9
+
+COCOAPODS: 1.9.0.beta.2

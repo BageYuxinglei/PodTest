@@ -1,0 +1,22 @@
+{
+  "name": "CheckinServer",
+  "version": "0.1.0",
+  "summary": "A short description of CheckinServer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuxinlei@eventslack.com/CheckinServer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuxinlei@eventslack.com": "yuxinlei@eventslack.com"
+  },
+  "source": {
+    "git": "https://github.com/yuxinlei@eventslack.com/CheckinServer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CheckinServer/Classes/**/*"
+}
